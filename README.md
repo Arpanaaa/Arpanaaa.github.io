@@ -11,3 +11,5 @@ Work is constantly changing. Projects multiply across the business and become pr
 It’s easy to see why Kanban has become an essential project management tool. As a lightweight and adaptable workflow method, it offers fit-for-purpose solutions that I’ve applied on projects across diverse industries, ranging from finance to energy to consumer markets. Kanban is capable of handling workflows on its own, but is particularly suited to being hybridized with other frameworks, scaling to an enterprise level, or even serving as the bridge to take organizations from Waterfall to Agile processes.
 
 ![alt text](https://assets.toptal.io/images?url=https%3A%2F%2Fbs-uploads.toptal.io%2Fblackfish-uploads%2Fpublic-files%2FUntitled-c1c5294701185de6bfc2ad3e915e4861.png)
+
+The 2022 State of Agile Report shows an explosive growth in the use of Kanban—up from 7% of respondents in 2020 to 56% in 2022. Considering the global shift to remote work that happened in 2020, part of that increase is no doubt due to Kanban use by remote teams.
