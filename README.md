@@ -13,3 +13,5 @@ It’s easy to see why Kanban has become an essential project management tool. A
 ![alt text](https://assets.toptal.io/images?url=https%3A%2F%2Fbs-uploads.toptal.io%2Fblackfish-uploads%2Fpublic-files%2FUntitled-c1c5294701185de6bfc2ad3e915e4861.png)
 
 The 2022 State of Agile Report shows an explosive growth in the use of Kanban—up from 7% of respondents in 2020 to 56% in 2022. Considering the global shift to remote work that happened in 2020, part of that increase is no doubt due to Kanban use by remote teams.
+
+That said, even with many businesses going hybrid or returning to the office, Kanban is still increasing in popularity. According to the most recent State of Kanban Report, 41% of organizations are applying Kanban across more than 10 teams, with 86% of respondents planning to expand their Kanban initiatives in 2023. Understanding the history of the Kanban system will help you gain a deeper understanding [about](https://arpanaaa.github.io/about) it’s so popular, and how to best leverage it for your projects.
