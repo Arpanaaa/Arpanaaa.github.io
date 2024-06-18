@@ -19,7 +19,7 @@
 
 ## [Pain of Paying](https://arpanaaa.github.io/about) 
 
-<img src="https://github.com/Arpanaaa/Arpanaaa.github.io/assets/159395386/ff046ba6-cc9a-41b4-800a-4f645a138cb1" width="1000" height="600">)
+<img src="https://github.com/Arpanaaa/Arpanaaa.github.io/assets/159395386/ff046ba6-cc9a-41b4-800a-4f645a138cb1" width="1000" height="600">
 
 Have you ever considered the discomfort of suddenly having to pay for something you once received effortlessly?
 
