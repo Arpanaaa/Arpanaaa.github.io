@@ -1,10 +1,10 @@
-# Blogs
+# Verbal Vortex - Blogs
 
 **Hello! I’m Arpana Shah, known for my cheerful, hardworking, and bright personality, traits I truly embody. Currently, I am pursuing my BBA with a major in Finance.**
 
 **As an ambivert, I have a diverse range of interests, including acting, writing poetry, watching movies, listening to music, cooking, and emceeing, among many others. I am naturally a perfectionist, always enthusiastic about new opportunities and committed to giving my best in everything I undertake.**
 
-**Starting this blog is one of my latest passions. Here, I have shared articles and writings that I have personally crafted.**
+**Starting this blog is one of my latest passions. Here, I have shared articles and writings that I have personally crafted. The topics will span from finance and economics to psychology and trending issues, as well as any other subject that captures my imagination and compels me to share my thoughts.**
 
 *The blog has been named ‘Verbal Vortex’ as it suggests a space where significant and insightful conversations happen, where different voices and ideas meet, and where the art of language is celebrated.*
 
