@@ -12,6 +12,10 @@
 
 <img src="https://github.com/Arpanaaa/Arpanaaa.github.io/assets/159395386/2cabc091-888e-4ed5-a402-454f6c5391f9" width="1000" height="600">
 
+‘Tring’ ‘Tring’ my phone rings. I go and receive it. It is a call from my cousin Rohit, who just completed his Undergraduate degree in Chemical Engineering and is working for a firm. He is delighted to give me the news that he is going to the United States for his Graduate degree and that he has also received a brilliant job opportunity there. I am elated when I hear the news. I congratulate him and put the phone down.
+<br>
+***Read More***
+
 Work is constantly changing. Projects multiply across the business and become programs. Programs get grouped into portfolios, and [management practices](https://www.toptal.com/project-managers/scaled-agile-framework/safe-best-practices) become increasingly complex as organizations grow and begin to operate at scale. Even something as simple as an office presence is no longer a given.
 
 [Project managers](https://www.toptal.com/project-managers/freelance) are routinely tasked with handling uncertainty, to the point that adaptability is a core competency for the profession. Throughout all of this complexity, Kanban has remained a keystone of the management world for more than 60 years, enabling project professionals to maintain a clear, high-level view of processes.
