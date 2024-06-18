@@ -17,7 +17,7 @@
 <br>
 ***[Read More](https://arpanaaa.github.io/braindrain)***
 
-## [Pain of Paying](https://arpanaaa.github.io/painofpaying) 
+## [The Pain of Paying](https://arpanaaa.github.io/painofpaying) 
 
 <img src="https://github.com/Arpanaaa/Arpanaaa.github.io/assets/159395386/ff046ba6-cc9a-41b4-800a-4f645a138cb1" width="1000" height="600">
 
