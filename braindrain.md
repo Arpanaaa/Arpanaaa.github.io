@@ -22,13 +22,18 @@ Brain drain was a concept that existed in my head until I witnessed it through m
 
 Furthermore, brain drain harms the source country. It can lead to a reduction of human capital, loss of skills, limited capacity to innovate, loss of nation's investment in education as a highly educated person leaves the country, loss of tax revenues, loss of social capital, loss of critical services in the health and education sectors, reduced economic growth, demographic shifts, and a higher cost of public goods. 
 
+**Brain Waste**
+<br>
 Additionally, brain drain brings a lot of chances of brain waste as well. Brain waste happens when highly skilled individuals move to a region with incomplete information and end up unemployed. Highly qualified individuals do not get complete information regarding the demand and supply of the skill he/she possesses in the country he/she has migrated into and does not get a job there or get a job where the high skills he/she possesses are not required. Many individuals who have migrated or emigrated have been in the trap of brain waste. 
 On the other hand, brain drain could also have a positive effect on a country. When highly qualified individuals move abroad, they send a part of their earnings to their home country. The flow of remittance has been increasing drastically. The remittance has reduced poverty and supported families in the home country. The remittance money is invested in housing, education, and healthcare. As per a report from the World Bank, remittance covers 24.3% of the GDP of Nepal as of the year 2020.  
 
+**Brain Gain**
+<br>
 Moreover, brain drain can benefit the host country in many ways. The advantage that a host country receives due to brain drain is termed 'brain gain'. Brain gain is the benefit incurred by a region or a country as a result of the migration or emigration of a highly qualified person. When a highly qualified individual migrates to a country, he/she becomes an asset to the country with his/her skills and innovative capacity. 
 
 Brain drain has also opened new horizons for companies and economies. They are building connections to international sources of cash, information, and goods. They are creating a better social and educative level, better foreign markets know-how, and new business ideas. 
 
+**Mitigation of Brain Drain**
 Despite the perks of brain drain in the form of remittance for Nepal, the Nepalese government needs to proactively address the issue of brain drain before it loses all its highly skilled human resources. The government must be aware of the needs and demands of the youth and qualified labor. They must create job opportunities that suit the qualification of individuals. The job positions should also ensure a decent salary. The recruitment process should also be fair. The practice of favoring relatives and family members while recruiting should be stopped.  
 
 Cooperation should be created between the government, universities, and corporations. The youth should be assured that they will receive good employment in their own home country. The government can promote entrepreneurship among the youth. They can provide exemptions and subsidies to promote entrepreneurship and self-employment. They can give exemptions on electricity bills, and tax benefits and also provide subsidized interest rates on loans for those starting their businesses till a certain period. 
