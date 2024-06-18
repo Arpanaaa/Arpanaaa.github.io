@@ -8,7 +8,7 @@
 
 *This blog has been named ‘Verbal Vertex’ as it suggests a space where significant and insightful conversations can happen, where different ideas meet, and where the art of language is celebrated.*
 
-**MY BLOGS**
+### **MY BLOGS**
 
 ## [Brain Drain: An Exodus by the people, for their people](https://arpanaaa.github.io/braindrain) 
 
