@@ -1,14 +1,12 @@
 # Blogs
 
-**Hey! I am Arpana Shah and I am perceived to be a jolly, hardworking, bright persona which I truly believe I am. I am currently pursuing my BBA.**
+**Hello! I’m Arpana Shah, known for my cheerful, hardworking, and bright personality, traits I truly embody. Currently, I am pursuing my BBA with a major in Finance.**
 
-**I am an ambivert having an assortment of interests from acting, writing poetry, watching movies, listening to music, cooking and the list goes on. I am a perfectionist by nature who has always been enthusiastic about opportunities that come my way and strives to give my best at whatever I put my hand into.**
+**As an ambivert, I have a diverse range of interests, including acting, writing poetry, watching movies, listening to music, cooking, and emceeing, among many others. I am naturally a perfectionist, always enthusiastic about new opportunities and committed to giving my best in everything I undertake.**
 
-**Creating this blog is one of my newly formed interests. I have included articles that I have penned in this blog.**
+**Starting this blog is one of my latest passions. Here, I have shared articles and writings that I have personally crafted.**
 
-This is a personal blog where articles will be shared. The blog has been named ‘Where Words Collide’ as it is a platform to let articulate what is inside our hearts through words.**
-
-*From auto manufacturing in the 1950s to the modern digital workplace, Kanban’s evolution holds valuable lessons for today’s distributed project teams.*
+*The blog has been named ‘Verbal Vortex’ as it suggests a space where significant and insightful conversations happen, where different voices and ideas meet, and where the art of language is celebrated.*
 
 Work is constantly changing. Projects multiply across the business and become programs. Programs get grouped into portfolios, and [management practices](https://www.toptal.com/project-managers/scaled-agile-framework/safe-best-practices) become increasingly complex as organizations grow and begin to operate at scale. Even something as simple as an office presence is no longer a given.
 
