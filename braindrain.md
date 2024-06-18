@@ -9,9 +9,11 @@ I am suddenly hit by a series of thoughts in my head. Is it necessary to migrate
 Brain drain refers to the migrations of persons (born, educated, and trained) to developed countries. It is the migration of human resources with skills. It poses a severe danger to the nation's efforts to develop its human capital. High-caliber individuals like managers, engineers, doctors, educators, scientists, administrators, etc. make the decision to migrate and emigrate. The migration occurs in search of a better salary, higher standard of living, quality of life, and stable political conditions. 
 
 **Types of Brain Drain**
+<br>
 Brain drain can be distinguished into three types. The first is the brain drain between developed nations. People migrate from one developed nation to another developed nation. The brain drain from a developing nation to a developed nation is the second. This is the most prevailing type. The third is the brain drain between developing countries. Individuals migrate from one developing nation to another. 
 
 **Brain Drain and its Impact in Nepal**
+<br>
 In developing nations like Nepal, brain drain can be seen as a widespread phenomenon. A lot of the youth of Nepal are migrating and emigrating. The main reason why Nepali youth are moving abroad is the lack of employment opportunities. The wage difference between the same jobs in Nepal and abroad is enormous. A person with a certain level of qualification working abroad and a person with the same qualifications working here, in Nepal face wide wage gaps. Hence, it is more economical for Nepali youth to work abroad rather than in Nepal. He/ She will earn more abroad than in Nepal. Therefore, the youth is settling abroad for better employment opportunities, a standard of living, personal growth, and accommodation. 
 
 Thus, the lack of employment opportunities and unemployment has resulted in migration and emigration of people all over the country. Additionally to the youth, the elderly are also relocating abroad. According to a recent report from the United Nations – World Population Prospects, the net migration rate in 2022 is 4.353 per 1000 people which is a 19.72 % increase as compared to 2021. It is estimated that the rate of migration will increase year after year in the upcoming years. 
