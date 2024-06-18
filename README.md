@@ -6,7 +6,9 @@
 
 **Starting this blog is one of my latest passions. Here, I have shared articles and writings that I have personally crafted. The topics will span from finance, psychology to trending issues, as well as any other subject that sparks my interest and compels me to share my thoughts.**
 
-*The blog has been named ‘Verbal Vertex’ as it suggests a space where significant and insightful conversations can happen, where different ideas meet, and where the art of language is celebrated.*
+*This blog has been named ‘Verbal Vertex’ as it suggests a space where significant and insightful conversations can happen, where different ideas meet, and where the art of language is celebrated.*
+
+![alt text](https://pfst.cf2.poecdn.net/base/image/597d502ae27012612435bd230a50770b57277040085c77df5ee9dba03da6ec79?w=1024&h=1024&pmaid=100353785)
 
 Work is constantly changing. Projects multiply across the business and become programs. Programs get grouped into portfolios, and [management practices](https://www.toptal.com/project-managers/scaled-agile-framework/safe-best-practices) become increasingly complex as organizations grow and begin to operate at scale. Even something as simple as an office presence is no longer a given.
 
