@@ -1,12 +1,12 @@
-# Verbal Vortex - Blogs
+# Verbal Vertex - Blogs
 
-**Hello! I’m Arpana Shah, known for my cheerful, hardworking, and bright personality, traits I truly embody. Currently, I am pursuing my BBA with a major in Finance.**
+**Hello! I’m Arpana Shah, known for my cheerful, hardworking, and bright personality, traits I truly embody. Currently, I am pursuing BBA with a major in Finance.**
 
-**As an ambivert, I have a diverse range of interests, including acting, writing poetry, watching movies, listening to music, cooking, and emceeing, among many others. I am naturally a perfectionist, always enthusiastic about new opportunities and committed to giving my best in everything I undertake.**
+**As an ambivert, I have a diverse range of interests, including acting, emceeing, writing poetry, watching movies, listening to music, and cooking, among many others. I am naturally a perfectionist, always enthusiastic about new opportunities and committed to giving my best in everything I undertake.**
 
-**Starting this blog is one of my latest passions. Here, I have shared articles and writings that I have personally crafted. The topics will span from finance and economics to psychology and trending issues, as well as any other subject that captures my imagination and compels me to share my thoughts.**
+**Starting this blog is one of my latest passions. Here, I have shared articles and writings that I have personally crafted. The topics will span from finance, psychology to trending issues, as well as any other subject that sparks my interest and compels me to share my thoughts.**
 
-*The blog has been named ‘Verbal Vortex’ as it suggests a space where significant and insightful conversations happen, where different voices and ideas meet, and where the art of language is celebrated.*
+*The blog has been named ‘Verbal Vertex’ as it suggests a space where significant and insightful conversations can happen, where different ideas meet, and where the art of language is celebrated.*
 
 Work is constantly changing. Projects multiply across the business and become programs. Programs get grouped into portfolios, and [management practices](https://www.toptal.com/project-managers/scaled-agile-framework/safe-best-practices) become increasingly complex as organizations grow and begin to operate at scale. Even something as simple as an office presence is no longer a given.
 
