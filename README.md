@@ -8,7 +8,7 @@
 
 *This blog has been named ‘Verbal Vertex’ as it suggests a space where significant and insightful conversations can happen, where different ideas meet, and where the art of language is celebrated.*
 
-## [Brain Drain: An Exodus by the people, for their people](https://arpanaaa.github.io/BrainDrain)
+## [Brain Drain: An Exodus by the people, for their people](https://arpanaaa.github.io/braindrain) 
 
 <img src="https://github.com/Arpanaaa/Arpanaaa.github.io/assets/159395386/2cabc091-888e-4ed5-a402-454f6c5391f9" width="1000" height="600">
 
