@@ -1,10 +1,10 @@
 # Blogs
 
-**Hey! I am Arpana Shah and I am perceived to be a jolly, hardworking, bright persona which I truly believe I am. I am currently pursuing my BBA.
+**Hey! I am Arpana Shah and I am perceived to be a jolly, hardworking, bright persona which I truly believe I am. I am currently pursuing my BBA.**
 
-I am an ambivert having an assortment of interests from acting, writing poetry, watching movies, listening to music, cooking and the list goes on. I am a perfectionist by nature who has always been enthusiastic about opportunities that come my way and strives to give my best at whatever I put my hand into.
+**I am an ambivert having an assortment of interests from acting, writing poetry, watching movies, listening to music, cooking and the list goes on. I am a perfectionist by nature who has always been enthusiastic about opportunities that come my way and strives to give my best at whatever I put my hand into.**
 
-Creating this blog is one of my newly formed interests. I have included articles that I have penned in this blog.**
+**Creating this blog is one of my newly formed interests. I have included articles that I have penned in this blog.**
 
 This is a personal blog where articles will be shared. The blog has been named ‘Where Words Collide’ as it is a platform to let articulate what is inside our hearts through words.**
 
