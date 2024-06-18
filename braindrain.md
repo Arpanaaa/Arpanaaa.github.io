@@ -34,6 +34,7 @@ Moreover, brain drain can benefit the host country in many ways. The advantage t
 Brain drain has also opened new horizons for companies and economies. They are building connections to international sources of cash, information, and goods. They are creating a better social and educative level, better foreign markets know-how, and new business ideas. 
 
 **Mitigation of Brain Drain**
+<br>
 Despite the perks of brain drain in the form of remittance for Nepal, the Nepalese government needs to proactively address the issue of brain drain before it loses all its highly skilled human resources. The government must be aware of the needs and demands of the youth and qualified labor. They must create job opportunities that suit the qualification of individuals. The job positions should also ensure a decent salary. The recruitment process should also be fair. The practice of favoring relatives and family members while recruiting should be stopped.  
 
 Cooperation should be created between the government, universities, and corporations. The youth should be assured that they will receive good employment in their own home country. The government can promote entrepreneurship among the youth. They can provide exemptions and subsidies to promote entrepreneurship and self-employment. They can give exemptions on electricity bills, and tax benefits and also provide subsidized interest rates on loans for those starting their businesses till a certain period. 
