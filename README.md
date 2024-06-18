@@ -1,4 +1,4 @@
-# Verbal Vertex - Blogs
+# 'Verbal Vertex' - Blogs
 
 **Hello! I’m Arpana Shah, known for my cheerful, hardworking, and bright personality, traits I truly embody. Currently, I am pursuing BBA with a major in Finance.**
 
