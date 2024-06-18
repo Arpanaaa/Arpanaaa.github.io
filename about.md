@@ -9,7 +9,7 @@ Imagine having to purchase sunlight, a resource freely given by the sun. It seem
 
 Reflecting on a more personal example than the earlier hypothetical one, I recall accompanying my mother for grocery shopping in my youth. We would buy vegetables like cauliflower, brinjal, lady fingers, onions, and tomatoes. As a delightful tradition, the shopkeeper would always add green chilies and fresh coriander to our bags at no cost. Regardless of their monetary value, the chilies and coriander brought us joy. 
 
-We still visit the same shop to date, but the landscape has shifted. We no longer receive the green chilies and coriander without charge. We now pay for these once-complimentary items. The transition from receiving them freely to having to purchase them introduces an emotional shift - the "Pain of Paying."
+We still visit the same shop to date, but the landscape has shifted. We no longer receive the green chilies and coriander without charge. We now pay for these once-complimentary items. The transition from receiving them freely to having to purchase them introduces an emotional shift - the **"Pain of Paying."**
 
 This phenomenon taps into our inherent **"loss aversion"** tendency where we as humans, feel losses more acutely than gains. The weight of the loss is much greater than the gain. Previously, the absence of cost for these chilies and coriander was simply the norm, not a gain to be celebrated. Yet now, their purchase serves as a reminder of what once was and what is now lost.
 
