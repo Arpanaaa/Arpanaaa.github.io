@@ -8,7 +8,7 @@
 
 *This blog has been named ‘Verbal Vertex’ as it suggests a space where significant and insightful conversations can happen, where different ideas meet, and where the art of language is celebrated.*
 
-![Brain Drain](https://github.com/Arpanaaa/Arpanaaa.github.io/assets/159395386/2cabc091-888e-4ed5-a402-454f6c5391f9) with <img src="https://github.com/Arpanaaa/Arpanaaa.github.io/assets/159395386/2cabc091-888e-4ed5-a402-454f6c5391f9" width="100" height="100">
+![Brain Drain](https://github.com/Arpanaaa/Arpanaaa.github.io/assets/159395386/2cabc091-888e-4ed5-a402-454f6c5391f9) <img src="https://github.com/Arpanaaa/Arpanaaa.github.io/assets/159395386/2cabc091-888e-4ed5-a402-454f6c5391f9" width="100" height="100">
 
 Work is constantly changing. Projects multiply across the business and become programs. Programs get grouped into portfolios, and [management practices](https://www.toptal.com/project-managers/scaled-agile-framework/safe-best-practices) become increasingly complex as organizations grow and begin to operate at scale. Even something as simple as an office presence is no longer a given.
 
